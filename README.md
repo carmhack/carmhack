@@ -25,7 +25,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  Who i am</h3>
+<h3 align="left">Who i am</h3>
 
 ###
 
